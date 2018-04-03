@@ -183,62 +183,6 @@
         "name": "Golden",
         "sureName": "Lawson",
         "gender": "male"
-      },
-      {
-        "id": "5ac3e5d038ef0fcaae785592",
-        "isActive": true,
-        "birthDate": "2001-03-12T02:20:58 +03:00",
-        "name": "Felecia",
-        "sureName": "Gregory",
-        "gender": "female"
-      },
-      {
-        "id": "5ac3e5d0c477630bd29bd0a3",
-        "isActive": false,
-        "birthDate": "2014-04-09T11:31:35 +03:00",
-        "name": "Jewel",
-        "sureName": "Preston",
-        "gender": "female"
-      },
-      {
-        "id": "5ac3e5d052be3a4b93fca565",
-        "isActive": true,
-        "birthDate": "1998-09-06T02:38:12 +03:00",
-        "name": "Monica",
-        "sureName": "Kelley",
-        "gender": "female"
-      },
-      {
-        "id": "5ac3e5d092aa5e03a72c4ee7",
-        "isActive": false,
-        "birthDate": "2017-03-11T12:09:33 +03:00",
-        "name": "Evans",
-        "sureName": "Carlson",
-        "gender": "male"
-      },
-      {
-        "id": "5ac3e5d03b50aaba7813fd39",
-        "isActive": true,
-        "birthDate": "1980-06-20T01:22:12 +03:00",
-        "name": "Ellison",
-        "sureName": "Duffy",
-        "gender": "male"
-      },
-      {
-        "id": "5ac3e5d0648483b5fb25d293",
-        "isActive": true,
-        "birthDate": "1982-05-13T07:55:54 +03:00",
-        "name": "Maritza",
-        "sureName": "Santos",
-        "gender": "female"
-      },
-      {
-        "id": "5ac3e5d0eb39c520cbcbcba5",
-        "isActive": true,
-        "birthDate": "1986-11-18T01:21:48 +02:00",
-        "name": "Rogers",
-        "sureName": "Patrick",
-        "gender": "male"
       }
     ]
 }
